@@ -102,7 +102,7 @@ VALUES (10008, '2016-02-22', 1001, 2, 105);
 
 2. Cek pada database target apakah proses CDC sudah berjalan
 
-![CDC test](docs/targetC_cdc.png)
+![CDC test](docs/target_cdc.png)
 
 3. Sudah berjalan.
 
