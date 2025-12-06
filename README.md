@@ -104,7 +104,7 @@ VALUES (10008, '2016-02-22', 1001, 2, 105);
 
 ![CDC test](docs/target_cdc.png)
 
-3. Sudah berjalan.
+3. Sudah berjalan
 
 
 ### 6. Grafana UI 
